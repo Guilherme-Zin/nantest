@@ -1,0 +1,6 @@
+C:\area de t\rats\NanoCore 1.2.2.0_Cracked By Alcatraz3222\lab-plugins\PacketLogger\obj\Release\PacketLogger.csprojResolveAssemblyReference.cache
+C:\area de t\rats\NanoCore 1.2.2.0_Cracked By Alcatraz3222\lab-plugins\PacketLogger\bin\Release\PacketLogger.dll
+C:\area de t\rats\NanoCore 1.2.2.0_Cracked By Alcatraz3222\lab-plugins\PacketLogger\obj\Release\PacketLogger.dll
+C:\area de t\rats\nano\lab-plugins\PacketLogger\bin\Release\PacketLogger.dll
+C:\area de t\rats\nano\lab-plugins\PacketLogger\obj\Release\PacketLogger.csprojResolveAssemblyReference.cache
+C:\area de t\rats\nano\lab-plugins\PacketLogger\obj\Release\PacketLogger.dll

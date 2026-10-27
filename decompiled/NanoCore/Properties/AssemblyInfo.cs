@@ -1,0 +1,20 @@
+using System;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCompany("")]
+[assembly: CLSCompliant(false)]
+[assembly: AssemblyProduct("")]
+[assembly: AssemblyKeyName("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: SuppressIldasm]
+[assembly: AssemblyDelaySign(false)]
+[assembly: Guid("657166ec-df19-4a6c-af18-dcf7f06759c7")]
+[assembly: AssemblyTitle("NanoCore")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyFileVersion("1.2.2.0")]
+[assembly: ComVisible(false)]
+[assembly: AssemblyVersion("1.2.2.0")]

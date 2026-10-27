@@ -1,0 +1,27 @@
+Não é possível acessar um objeto descartado.
+Nome do objeto: 'GClass8'.
+
+System.ObjectDisposedException
+   em System.Windows.Forms.Control.CreateHandle()
+   em System.Windows.Forms.TextBoxBase.CreateHandle()
+   em System.Windows.Forms.Control.get_Handle()
+   em GClass8.Wi0c1Q4sQ00Z5Uw3YFD(Object )
+   em GClass8.method_9()
+   em amN3fWBy5qlkueYZcu.Uq7378U2mjTNN2NrmB.uEkDihn6DEBZocSf2j5(Object )
+   em amN3fWBy5qlkueYZcu.Uq7378U2mjTNN2NrmB.jXtrigPQPe(Object  )
+   em amN3fWBy5qlkueYZcu.Uq7378U2mjTNN2NrmB.HSKaeMnTdGWx60drEcT(Object )
+   em amN3fWBy5qlkueYZcu.Uq7378U2mjTNN2NrmB.IamrOCPnXd()
+   em amN3fWBy5qlkueYZcu.Uq7378U2mjTNN2NrmB.pXt96Wni1sVrXkGS7Cv()
+   em amN3fWBy5qlkueYZcu.Uq7378U2mjTNN2NrmB.IVQroO0Y42(LogColor  , Object  )
+   em GClass33.uuDhqvGl6v3RWiWOjG8y(LogColor  , Object )
+   em GClass33.LogServerMessage(LogColor logColor, String message)
+   em #=q$QAyDbglnloPMfakLSdyJQ==.#=qENcH1tewCThc$F72IDESi6qL3yoburxVP3L3YVSDDvY=()
+   em #=q$QAyDbglnloPMfakLSdyJQ==._Lambda$__21()
+   em #=q$QAyDbglnloPMfakLSdyJQ==._Lambda$__20(Object #=qtyXnxWEsNIjAo8fOYpVr1w==)
+   em System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   em System.Threading.ExecutionContext.runTryCode(Object userData)
+   em System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   em System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)

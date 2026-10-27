@@ -1,0 +1,172 @@
+﻿{
+    "exportedAt":  "2026-06-14T03:23:08.4864982-03:00",
+    "sourceLog":  "C:\\area de t\\rats\\NanoCore 1.2.2.0_Cracked By Alcatraz3222\\server.log",
+    "listeningPorts":  [
+                           888,
+                           1604,
+                           1608,
+                           54984
+                       ],
+    "loadedPlugins":  [
+                          "Core Plugin",
+                          "Dynamic Update Client",
+                          "Management Plugin",
+                          "Misc Tools",
+                          "MultiCore",
+                          "NanoBrowser",
+                          "NanoCoreSwiss",
+                          "NanoNana",
+                          "NanoProtect (Leumonic",
+                          "NanoStress",
+                          "Network Plugin",
+                          "Security Plugin",
+                          "SurveillanceEx Plugin",
+                          "Surveillance Plugin",
+                          "Tools Plugin"
+                      ],
+    "errorCount":  452,
+    "recentErrors":  [
+                         "01:02: Plugin format is obsolete and could not be loaded.    em OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )",
+                         "01:02: Plugin Exception [SurveillanceEx Plugin] (Invoke):",
+                         "01:02: Plugin Exception [SurveillanceEx Plugin] (Invoke):",
+                         "01:54: LogInternalExceptions = False",
+                         "21:02: LogInternalExceptions = False",
+                         "21:02: Failed to open plugin at \u0027Plugins\\AIO.ncp\u0027.",
+                         "21:02: Plugin format is obsolete and could not be loaded.    em OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )",
+                         "21:02: Failed to open plugin at \u0027Plugins\\NanoBlack.ncp\u0027.",
+                         "21:02: Plugin format is obsolete and could not be loaded.    em OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )",
+                         "21:02: Failed to open plugin at \u0027Plugins\\VisibleMode1.1.ncp\u0027.",
+                         "21:02: Plugin format is obsolete and could not be loaded.    em OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )",
+                         "21:38: LogInternalExceptions = False",
+                         "06:31: LogInternalExceptions = False",
+                         "06:31: Failed to open plugin at \u0027Plugins\\AIO.ncp\u0027.",
+                         "06:31: Plugin format is obsolete and could not be loaded.    em OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )",
+                         "06:31: Failed to open plugin at \u0027Plugins\\NanoBlack.ncp\u0027.",
+                         "06:31: Plugin format is obsolete and could not be loaded.    em OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )",
+                         "06:31: Failed to open plugin at \u0027Plugins\\VisibleMode1.1.ncp\u0027.",
+                         "06:31: Plugin format is obsolete and could not be loaded.    em OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )",
+                         "06:33: LogInternalExceptions = False"
+                     ],
+    "eventSample":  [
+                        {
+                            "raw":  "21:02: Loading plugin \u0027SurveillanceEx Plugin\u0027 (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "21:02: Loading plugin \u0027Surveillance Plugin\u0027 (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "21:02: Loading plugin \u0027Tools Plugin\u0027 (83d05a36-970f-6690-ed4b-27b89b03c077)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "21:02: Server has begun binding to port 54984",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "21:02: Server has begun listening on port 54984",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "21:02: Server has begun binding to port 888",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "21:02: Server has begun listening on port 888",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "21:38: Writing server settings..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin catalog..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Connected to exchange server.",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027Core Plugin\u0027 (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027Dynamic Update Client\u0027 (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027Management Plugin\u0027 (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027Misc Tools\u0027 (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027MultiCore\u0027 (e3b59f0e-5da9-5656-50ca-3a9c01162011)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027NanoCoreSwiss\u0027 (46dba22e-b7d5-7204-7d2c-b8de9e767095)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027NanoBrowser\u0027 (94caa1be-766d-6a44-a7be-3d14688fc136)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027NanoNana\u0027 (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027NanoProtect (Leumonic\u0027s Mod)\u0027 (f617cc79-5d3c-82c3-fad6-3802f598a690)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027NanoStress\u0027 (a42871f1-7588-a24a-6543-93866f7d582d)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027Network Plugin\u0027 (00592cb9-e09a-3d31-3c36-119998044e3d)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027Security Plugin\u0027 (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027SurveillanceEx Plugin\u0027 (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027Surveillance Plugin\u0027 (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Loading plugin \u0027Tools Plugin\u0027 (83d05a36-970f-6690-ed4b-27b89b03c077)..",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Server has begun binding to port 54984",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Server has begun listening on port 54984",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Server has begun binding to port 888",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:31: Server has begun listening on port 888",
+                            "type":  "server_event"
+                        },
+                        {
+                            "raw":  "06:33: Writing server settings..",
+                            "type":  "server_event"
+                        }
+                    ]
+}

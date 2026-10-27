@@ -1,0 +1,6 @@
+C:\area de t\rats\NanoCore 1.2.2.0_Cracked By Alcatraz3222\lab-plugins\LabMonitor\obj\Release\LabMonitor.csprojResolveAssemblyReference.cache
+C:\area de t\rats\NanoCore 1.2.2.0_Cracked By Alcatraz3222\lab-plugins\LabMonitor\bin\Release\LabMonitor.dll
+C:\area de t\rats\NanoCore 1.2.2.0_Cracked By Alcatraz3222\lab-plugins\LabMonitor\obj\Release\LabMonitor.dll
+C:\area de t\rats\nano\lab-plugins\LabMonitor\bin\Release\LabMonitor.dll
+C:\area de t\rats\nano\lab-plugins\LabMonitor\obj\Release\LabMonitor.csprojResolveAssemblyReference.cache
+C:\area de t\rats\nano\lab-plugins\LabMonitor\obj\Release\LabMonitor.dll

